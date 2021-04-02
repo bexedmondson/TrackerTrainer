@@ -55,4 +55,4 @@ Keep track of both things as they shift throughout the video.
 
 At the end of each section, or jam, you will be asked to identify where the pack is and what the score is for the current trip.
 
-Ready? Hit Start above to begin!
+Ready? Hit Start above to begin! 
